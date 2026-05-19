@@ -52,17 +52,13 @@ npx skills add UWhisper/domain-distiller
 
 ---
 
-## 用 Domain Distiller 蒸馏的技能
+## 已蒸馏技能
 
-Domain Distiller 已用于生成多个经过验证的技能：
-
-| 技能 | 领域 | 安装 |
+| 技能 | 简介 | 安装 |
 |------|------|---------|
-| 🔥 **Travel Guide** | 基于五维研究的旅行规划 | `npx skills add UWhisper/travel-guide` |
-| 🔥 **PKM Advisor** | 个人知识管理工具选择 | `npx skills add UWhisper/pkm-advisor` |
-| **Consumer Decision** | 带约束建模的产品对比 | `npx skills add UWhisper/consumer-decision` |
+| 🔥 [**Travel Guide**](https://github.com/UWhisper/travel-guide-skill) 🔗 | 基于五维并行搜索、目的地实地验证的旅行规划技能。不凭记忆编造——每个数据交叉验证、标注可信度。强制 Claude 做纯 prompt 做不到的事：跨源验证、地理路线优化、逐项预算明细、骗局预警。 | `npx skills add UWhisper/travel-guide-skill` |
 
-每个技能都包含结构化决策框架、禁忌/风险过滤和用户偏好记忆。质量均通过裸 Claude 基线的对比验证。
+想让你的领域也被蒸馏？安装 Domain Distiller，说「蒸馏一个XXX」即可。
 
 ---
 

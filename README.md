@@ -52,17 +52,13 @@ After distillation, invoke the skill directly:
 
 ---
 
-## Skills Distilled with Domain Distiller
+## Skills Distilled
 
-Domain Distiller has been used to produce multiple verified skills:
+| Skill | Description | Install |
+|------|-------------|---------|
+| 🔥 [**Travel Guide**](https://github.com/UWhisper/travel-guide-skill) 🔗 | Destination-verified travel planning with 5-dimension parallel research. Never guesses — always searches, verifies, and labels confidence. Forces Claude to do what bare prompts won't: cross-source verification, geographic route optimization, line-by-line budget, and scam alerts. | `npx skills add UWhisper/travel-guide-skill` |
 
-| Skill | Domain | Install |
-|------|---------|---------|
-| 🔥 **Travel Guide** | Travel planning with 5-dimension research | `npx skills add UWhisper/travel-guide` |
-| 🔥 **PKM Advisor** | Personal knowledge management tool selection | `npx skills add UWhisper/pkm-advisor` |
-| **Consumer Decision** | Product comparison with constraint modeling | `npx skills add UWhisper/consumer-decision` |
-
-Each skill includes structured decision frameworks, taboo/risk filtering, and user preference memory. Quality verified against bare Claude baselines.
+Want your domain distilled? Install Domain Distiller and say "distill X into a skill."
 
 ---
 
