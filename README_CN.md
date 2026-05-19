@@ -1,3 +1,5 @@
+<img src="assets/main.png" alt="Domain Distiller · 领域蒸馏器" />
+
 # Domain Distiller · 领域蒸馏器
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)

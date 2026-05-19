@@ -1,3 +1,5 @@
+<img src="assets/main.png" alt="Domain Distiller" />
+
 # Domain Distiller
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
