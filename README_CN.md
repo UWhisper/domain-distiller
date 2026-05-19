@@ -1,30 +1,14 @@
-<div align="center">
-
 # Domain Distiller · 领域蒸馏器
-
-<p align="center">
-  <em>将任意领域的知识蒸馏为结构化、可决策的 Claude Code 技能的元技能</em>
-</p>
-
-> *「你想掌握的下一个领域，何必从零学起。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-<br>
+将零散领域知识转化为结构化、可决策的 Claude Code 技能——通过正交分解、并行多智能体研究与跨源验证。
 
-**Domain Distiller 将零散的知识转化为结构化的、可决策的 Claude Code 技能——通过正交分解、并行多智能体研究和跨源验证。**
+*说人话：给 Claude 装上领域外挂，让它从「我寻思」变成「我查了，交叉验证了，这是你的决策树」。*
 
-<br>
-
-[安装](#安装) · [工作原理](#工作原理) · [分解模式](#五大分解模式) · [不适合使用的情况](#不适合使用的情况)
-
-<br>
-
-[English](README.md)
-
-</div>
+[安装](#安装)  ·  [工作原理](#工作原理)  ·  [分解模式](#五大分解模式)  ·  [不适合使用的情况](#不适合使用的情况)  ·  [English](README.md)
 
 ---
 

@@ -1,30 +1,14 @@
-<div align="center">
-
 # Domain Distiller
-
-<p align="center">
-  <em>Meta-skill for distilling domain knowledge into decision-capable Claude Code skills</em>
-</p>
-
-> *"The next domain you want to master doesn't need to be learned from scratch."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-<br>
+Turn scattered domain knowledge into structured, decision-capable Claude Code skills — via orthogonal decomposition, parallel multi-agent research, and cross-source verification.
 
-**Domain Distiller turns scattered knowledge into structured, decision-ready Claude Code skills — through orthogonal decomposition, parallel multi-agent research, and cross-source verification.**
+*TL;DR: Turns Claude from "I think so" into "I searched, verified, and here's your decision tree."*
 
-<br>
-
-[Install](#install) · [How It Works](#how-it-works) · [Decomposition Patterns](#the-5-decomposition-patterns) · [When NOT to Use](#when-not-to-use)
-
-<br>
-
-[中文版](README_CN.md)
-
-</div>
+[Install](#install)  ·  [How It Works](#how-it-works)  ·  [Decomposition Patterns](#the-5-decomposition-patterns)  ·  [When NOT to Use](#when-not-to-use)  ·  [中文版](README_CN.md)
 
 ---
 
